@@ -1,7 +1,3 @@
-<!--
-**AndrewDiass/AndrewDiass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Lucas Bittencourt :man_technologist:
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndrewDiass)](https://github.com/AndrewDiass)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewdiass/)](https://www.linkedin.com/in/andrewdiass/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513988792753&text=Eai!)](https://api.whatsapp.com/send?phone=5513988792753&text=Eai!)
@@ -15,5 +11,3 @@ My name is Andrew Dias, Passionate about creating ideas from code.
 - :office_worker: Fullstack development intern at **DevMagic LTDA**
 - :blue_heart: Techs: Angular, Ionic, Node.js.
 - :books: Clean nodejs architecture and functional programming with javascript
-
----
