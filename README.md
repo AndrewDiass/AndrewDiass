@@ -8,5 +8,5 @@
 My name is Andrew Dias, Passionate about creating ideas from code.
 
 - :office_worker: Fullstack development intern at **DevMagic LTDA**
-- :blue_heart: Techs: Angular, Ionic, Node.js.
+- :blue_heart: Techs: Angular, Ionic, Node.js and Flutter.
 - :books: Clean nodejs architecture and functional programming with javascript
