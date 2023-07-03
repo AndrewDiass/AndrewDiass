@@ -7,6 +7,6 @@
 
 My name is Andrew Dias, Passionate about creating ideas from code.
 
-- :office_worker: Fullstack developer at **DevMagic LTDA**
+- :office_worker: Fullstack developer at **WeDoc**
 - :blue_heart: Techs: Angular, Ionic, Node.js and Flutter.
 - :books: Clean nodejs architecture and functional programming with javascript
